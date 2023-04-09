@@ -64,4 +64,11 @@ img {
   font-weight: bold;
   text-align: center;
   padding-top: 1.3rem;
+}
+
+.section__container {
+  background-color: #000;
+  display: grid;
+  grid-template-columns: 30% 70%;
+  height: auto;
 }/*# sourceMappingURL=styles.css.map */
